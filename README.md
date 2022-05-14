@@ -1,5 +1,7 @@
 <br />
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=linkb15.visitor-badge)
+
 I'm a passionate Front End developer from Indonesia
 
 **About me**
