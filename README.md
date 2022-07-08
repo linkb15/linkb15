@@ -22,3 +22,5 @@ I'm a passionate Front End developer from Indonesia :indonesia:
 
 | <a href="https://github.com/linkb15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=linkb15&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true" alt="Borris's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkb15&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<a href="https://app.daily.dev/linkb"><img src="https://api.daily.dev/devcards/042d977189ed467f8269fbd82382a2da.png?r=246" width="400" alt="Borris's Dev Card"/></a>
