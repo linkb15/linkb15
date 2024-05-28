@@ -8,6 +8,7 @@ I'm a passionate Front End developer from Indonesia :indonesia:
 - 📈 Built projects and have a blast
 - ❤️ I love working in a team and learn from each others
 - 💬 Ask me about anything [here](https://github.com/linkb15/linkb15/issues)
+- ✍️ I am writing a tech blog as well. [Subscribe](https://linkb.hashnode.dev/newsletter) for more updates!
 
 **Languages and Tools:**  
 
